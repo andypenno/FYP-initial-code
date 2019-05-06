@@ -1,2 +1,2 @@
 # FYP-initial-code
-Code developed for the intial methodology of the FYP
+Code developed for the initial methodology of the FYP.
